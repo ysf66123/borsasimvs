@@ -1,0 +1,6 @@
+{
+  "name": "Borsa Ticaret Simülasyonu",
+  "description": "Hisse senetleri alıp satarak kar elde edebileceğiniz bir ticaret oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
